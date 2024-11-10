@@ -6,7 +6,7 @@
  
 import SwiftUI
 
-// meow
+// meow, I am a easteregg
 let serialQueue = DispatchQueue.global(qos: .background)
 let screenSize = UIScreen.main.bounds
 let screenWidth = screenSize.width
