@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CMacro</key>
-	<string>stable</string>
+	<string>debug</string>
 	<key>Macro</key>
 	<dict>
 		<key>debug</key>
