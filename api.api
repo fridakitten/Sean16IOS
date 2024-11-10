@@ -1,0 +1,3 @@
+<api>
+    <build>-Iinclude -ISean16/SOC -ISean16/Compiler</build>
+</api>
